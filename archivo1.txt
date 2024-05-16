@@ -1,2 +1,3 @@
 Primer cambio en archivo 1
 Nuevo cambio en el archivo1
+Segundo cambio en archivo2
